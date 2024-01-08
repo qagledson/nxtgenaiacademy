@@ -1,0 +1,15 @@
+{
+  "name": "telemetry",
+  "version": "1.0.0",
+  "description": "Projeto de ponta a ponta do site nxtgenaiacademy",
+  "main": "index.js",
+  "author": "Gledson Nascimento",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "cypress-drag-drop": "^1.1.1"
+  },
+  "scripts": {
+    "cypress:run": "cypress run --record"
+  }
+}
